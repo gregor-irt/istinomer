@@ -1,3 +1,4 @@
+<script>
 var myLatLng = new google.maps.LatLng(44.817778, 20.456944);
 var myOptions = {
 	zoom: 12,
@@ -16260,3 +16261,4 @@ addMarker(44.838612, 20.418264, "63");
 addMarker(44.838341, 20.418312, "65");
 addMarker(44.838078, 20.418371, "45");
 addMarker(44.837303, 20.418659, "173");
+</script>
